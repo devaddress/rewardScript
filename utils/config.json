@@ -1,0 +1,8 @@
+{
+    "connectionURL": "https://mainnet.infura.io/v3/f9595146cf8147b39fd147cd14c207b5",
+    "bscURL": "https://bsc-dataseed.binance.org/",
+    "etherscanURL": "https://api-ropsten.etherscan.io/",
+    "bscscanURL": "https://api.bscscan.com/",
+    "cncApiKey": "f9f24024-ddd4-4419-832c-a8944f7f6df3",
+    "contractAddress": "0xa6630B22974F908a98a8139CB12Ec2EbABfbe9D4"
+}
